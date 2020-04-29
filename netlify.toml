@@ -2,3 +2,4 @@
   command = "yarn build"
   publish = "dist/client"
   functions = "dist/server"
+asdfasdf
